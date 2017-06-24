@@ -1,6 +1,6 @@
 <?php
 
-$temp="0123";
+$temp="01234";
 
 
 echo $temp;
